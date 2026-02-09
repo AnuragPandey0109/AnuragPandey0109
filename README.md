@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kabhi001&label=Profile+Views&style=flat-square&color=58A6FF" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Kabhi001?label=Followers&style=flat-square&color=0E75B6" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=AnuragPandey0109&label=Profile+Views&style=flat-square&color=58A6FF" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/AnuragPandey0109?label=Followers&style=flat-square&color=0E75B6" alt="GitHub followers" />
 </p>
 
 ---
@@ -63,27 +63,14 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kabhi001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabhi001&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Kabhi001&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kabhi001&theme=tokyonight&row=1&column=6" />
-</p>
 
 ---
 
 ## ⚡ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabhi001&theme=github-dark&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragPandey0109&theme=github-dark&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
