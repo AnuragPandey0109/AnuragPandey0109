@@ -1,20 +1,37 @@
 <!-- ========================= HERO ========================= -->
-<h1 align="center">Hi 👋, I'm <span style="color:#58A6FF">Anurag Kumar Pandey</span></h1>
+
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#58A6FF;">Anurag Kumar Pandey</span>
+</h1>
+
+<h3 align="center" style="color:#8b949e;">
+  🚀 Full Stack Developer • 💡 Problem Solver • 🌍 Open Source Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Turning+Ideas+Into+Reality;Consistent+%7C+Focused+%7C+Growth+Driven" />
 </p>
 
 <p align="center">
-  <img width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding animation" />
+  <img width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnuragPandey0109&label=Profile+Views&style=flat-square&color=58A6FF" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/AnuragPandey0109?label=Followers&style=flat-square&color=0E75B6" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=AnuragPandey0109&label=Profile+Views&style=for-the-badge&color=58A6FF" />
+  <img src="https://img.shields.io/github/followers/AnuragPandey0109?label=Followers&style=for-the-badge&color=58A6FF" />
+  <img src="https://img.shields.io/github/stars/AnuragPandey0109?label=Stars&style=for-the-badge&color=58A6FF" />
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-pandey-21653b347/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:anuragp817@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<hr style="border: 1px solid #30363d; width: 80%;" />
 
 ## 🙋‍♂️ About Me
 
