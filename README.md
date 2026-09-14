@@ -35,9 +35,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Junior at **Lovely Professional University** — **Computer Science Engineering**  
+- 🎓 **Lovely Professional University** — **Computer Science Engineering**  
 - 💻 Focused on **Full-Stack Web Development** & **Open Source**  
-- 🌱 Currently learning **React**, **Node.js**, and modern backend practices  
+- 🌱 Currently learning **Microservices**, **Spring**, and modern backend practices  
 - 🤝 Open to collaborating on **impactful Open Source projects**  
 - 📫 Reach me at: **[anuragp817@gmail.com](mailto:anuragp817@gmail.com)**  
 - ⚡ Fun fact: I’m a **Fitness Content Creator**
